@@ -4,8 +4,8 @@ readme
 
 include :
 ```html
-<script src="./jquery-1.10.2.min.js"></script>
-<script src="./hotkey.js"></script>
+<script src="./vender/jquery-1.10.2.min.js"></script>
+<script src="./src/hotkey.js"></script>
 ```
 
 
