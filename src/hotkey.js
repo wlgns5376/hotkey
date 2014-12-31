@@ -1,4 +1,10 @@
-(function($){
+/**
+ * Hotkey
+ * @author Ji Hoon Kang
+ *
+ *
+ **/
+  (function($){
 
     var specialKeys = {
       8: "backspace",
