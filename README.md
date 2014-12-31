@@ -12,8 +12,8 @@ include :
 example :
 
 ```javascript
-Hotkey(document.body, 'keyup', {
-    'left' : function( event ){
+Hotkey(document.body, 'keydown', {
+    'ctrl+z' : function( event ){
         console.log( event.data );  
     }
 });
