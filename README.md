@@ -2,14 +2,14 @@ hotkey
 ======
 readme
 
-## include :
+include :
 
 ```html
 <script src="./vender/jquery-1.10.2.min.js"></script>
 <script src="./src/hotkey.js"></script>
 ```
 
-## example :
+example :
 
 ```javascript
 Hotkey(document.body, 'keyup', {
